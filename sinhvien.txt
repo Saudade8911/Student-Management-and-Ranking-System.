@@ -1,0 +1,36 @@
+MaSV;HoTen;GPA;DiemRenLuyen;SoTinChi
+SV001;Nguyen Van An;3.50;85;120
+SV002;Tran Thi Binh;2.80;75;110
+SV003;Le Van Cuong;1.80;45;90
+SV004;Pham Minh Duc;3.20;92;125
+SV005;Hoang Thu Ha;3.75;88;130
+SV006;Do Quang Huy;2.45;68;100
+SV007;Vu Ngoc Lan;3.10;79;115
+SV008;Bui Tuan Kiet;1.95;70;95
+SV009;Dang Phuong Linh;3.90;96;140
+SV010;Ngo Duc Long;2.60;48;105
+SV011;Mai Khanh Ly;3.35;82;118
+SV012;Trinh Hai Nam;2.15;55;100
+SV013;Dinh Bao Ngoc;3.60;91;135
+SV014;Ly Thanh Phong;2.95;73;112
+SV015;Cao Minh Quan;1.50;40;75
+SV016;Ta Thu Trang;3.25;86;122
+SV017;Luong Gia Bao;2.70;64;108
+SV018;Phan Yen Nhi;3.05;50;105
+SV019;Truong Hoai Son;3.45;89;128
+SV020;Duong My Tam;2.30;77;98
+SV021;Ha Anh Tuan;3.80;94;138
+SV022;Nguyen Thuy Van;2.00;50;100
+SV023;Tran Gia Huy;2.40;49;102
+SV024;Le Khanh Vy;3.15;81;116
+SV025;Pham Hoang Yen;3.65;90;132
+SV026;Vu Thanh Tung;1.70;35;80
+SV027;Ho Thi Xuan;2.85;67;109
+SV028;Bach Quoc Viet;3.00;72;120
+SV029;Dang Minh Khoi;2.55;83;107
+SV030;Nguyen Bao Tram;3.40;87;124
+SV031;Doan Van Phuc;3.10;80
+SV032;Nguyen Ha My;abc;75;110
+SV033;Tran Duc Thinh;4.50;85;120
+SV034;Le Thu Thao;3.20;90;muoi
+SV001;Sinh Vien Trung Ma;3.00;70;100
